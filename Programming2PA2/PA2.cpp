@@ -6,6 +6,7 @@ using namespace std;
 static int* released = new int;
 
 
+
 void userMenu(int* userNum) {
 
 	while (!((*userNum == 1) || (*userNum == 2) || (*userNum == 3) || (*userNum == 4) || (*userNum == 5))) {
