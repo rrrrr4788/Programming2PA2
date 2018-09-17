@@ -31,7 +31,6 @@ void userMenu(int* userNum) {
 }
 
 
-
 int main(int argc, char**argv) {
 	int userInput;
 	int* userNum = &userInput;
